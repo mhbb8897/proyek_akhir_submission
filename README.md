@@ -1,3 +1,3 @@
-# Proyek akhir submission belajar dasar pemrograman web dari dicoding.id
+# Proyek akhir submission belajar dasar pemrograman web dicoding.id
 ### Terdapat fitur darkmode dan slider didalamnya.
-Hampir semua layouting dibuat dengan flexbox serta sudah responsive dalam mobile devices.
+Hampir semua layouting dibuat menggunakan flexbox serta sudah responsive dalam mobile devices.
